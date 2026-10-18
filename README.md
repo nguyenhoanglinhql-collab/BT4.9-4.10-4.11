@@ -1,4 +1,3 @@
-# c
 # BÁO CÁO BÀI TẬP / ĐỒ ÁN
 
 ## THÔNG TIN SINH VIÊN
@@ -14,30 +13,34 @@
 
 ### **B 4.9**
 ### 1. Ảnh màn hình Giao diện chính
-![Giao diện chính](./screenshots/giao_dien_46.jpg)
+![Giao diện chính](./screenshots/giao_dien_4.9.jpg)
 
 ### 2. Ảnh màn hình Chức năng thực thi / Kết quả
-![Thực thi chức năng](./screenshots/chay_4.6.jpg)
-![Thực thi chức năng](./screenshots/chay_4.6(2).jpg)
-
-
+![Thực thi chức năng](./screenshots/chay_4.9.jpg)
 ### 3. Ảnh màn hình Kiểm tra lỗi (Validation)
 
-![Kiểm tra lỗi](./screenshots/loi_4.6.jpg)
+![Kiểm tra lỗi](./screenshots/loi_4.9.jpg)
 
 ---
 ### **B 4.10**
 ### 1. Ảnh màn hình Giao diện chính
-![Giao diện chính](./screenshots/giao_dien_4.7.jpg)
-![Giao diện chính](./screenshots/giao_dien_4.7(2).jpg)
+![Giao diện chính](./screenshots/giao_dien_4.10.jpg)
+### 2. Ảnh màn hình Chức năng thực thi / Kết quả
+![Thực thi chức năng](./screenshots/chay_4.10.jpg)
+![Thực thi chức năng](./screenshots/chay_4.10(2).jpg)
+### 3. Ảnh màn hình Kiểm tra lỗi (Validation)
+![Kiểm tra lỗi](./screenshots/loi_4.10.jpg)
 
 ---
 ### **B 4.11**
 ### 1. Ảnh màn hình Giao diện chính
-![Giao diện chính](./screenshots/giao_dien_4.8.jpg)
+![Giao diện chính](./screenshots/giao_dien_4.11.jpg)
 
 ### 2. Ảnh màn hình Chức năng thực thi / Kết quả
-![Thực thi chức năng](./screenshots/chay_4.8.jpg)
+![Thực thi chức năng](./screenshots/chay_4.11.jpg)
+![Thực thi chức năng](./screenshots/chay_4.11(2).jpg)
+### 3. Ảnh màn hình Kiểm tra lỗi (Validation)
+![Kiểm tra lỗi](./screenshots/loi_4.11.jpg)
 
 
 
